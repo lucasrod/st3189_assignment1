@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mlr Diagram/.idea/mlr Diagram.iml" filepath="$PROJECT_DIR$/../mlr Diagram/.idea/mlr Diagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/st3189_assignment1.iml" filepath="$PROJECT_DIR$/.idea/st3189_assignment1.iml" />
     </modules>
   </component>
